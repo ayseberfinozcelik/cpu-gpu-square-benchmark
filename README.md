@@ -1,4 +1,4 @@
-# Advanced Programming HW4 - CPU vs GPU Square Benchmark
+# CPU vs GPU Square Benchmark
 
 ## Task Summary
 1. Create a float array of size `1,000,000`
